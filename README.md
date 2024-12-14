@@ -56,6 +56,14 @@ or
 As of now only the Machine Learning was implemented in this project and an extensive research on SGMS (Smart Grid Management System) was ongoing. We will very soon implement the intelligent algrithms to distribute the energy efficiently by minimising the losses.
 There is already a intemediate phase of energy integration exists , we should be minimizing the cost and engineering before our next update.
 
-## Declaration
-We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
-"# Smart-Grid-Management" 
+
+
+## 💬 Contact
+
+For any queries or feedback, feel free to reach out:
+- **Email**: yaddanapallijayaraju@gmail.com
+- **GitHub**: https://github.com/21NG1A0565/
+
+---
+
+### 🌟 If you like this project, please give it a star ⭐ on GitHub!
