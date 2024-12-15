@@ -62,7 +62,7 @@ There is already a intemediate phase of energy integration exists , we should be
 
 For any queries or feedback, feel free to reach out:
 - **Email**: yaddanapallijayaraju@gmail.com
-- **GitHub**: https://github.com/21NG1A0565/
+- **GitHub**: https://github.com/jayaraju-21NG1A0565/
 
 ---
 
